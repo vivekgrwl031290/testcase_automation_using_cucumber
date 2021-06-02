@@ -10,4 +10,5 @@ Make necessary changes in above files as per your need, save your changes and th
 
 folder structure should like below:
 
-![image](https://user-images.githubusercontent.com/68222619/120443933-c27da880-c3a4-11eb-8f02-34b8db9cb46d.png)
+![image](https://user-images.githubusercontent.com/68222619/120444363-2f913e00-c3a5-11eb-94f2-98b94eaa3574.png)
+
