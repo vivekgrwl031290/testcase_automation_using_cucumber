@@ -9,3 +9,5 @@ Create a new package "testRunner" under "src" folder and add "runner.java" file 
 Make necessary changes in above files as per your need, save your changes and then run "runner.java" file using Junit.
 
 folder structure should like below:
+
+![image](https://user-images.githubusercontent.com/68222619/120443933-c27da880-c3a4-11eb-8f02-34b8db9cb46d.png)
